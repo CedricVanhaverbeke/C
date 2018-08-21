@@ -1,1 +1,0 @@
-// Mijn versie van de oefening in de theorie
